@@ -1,3 +1,4 @@
+# KR2: Pshenichnov
 import os
 import socket
 
